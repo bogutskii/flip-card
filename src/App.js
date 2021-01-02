@@ -36,7 +36,7 @@ let arr = [...allCards]
   }
   
   
-  const flippedCard = (e, index, deleteCard) => {
+  const flippedCard = (e, index) => {
    
   setAllCards(
       allCards.map((el, i) =>
@@ -77,7 +77,7 @@ const inpQuestion = (e)=> {
               <button className="btn-close" onClick={(e) => deleteCard(e, index)}>&times;</button>
              
              
-              <button className="btn-green" onClick={(e) => flippedCard(e, index, 0)}>
+              <button className="btn-green" onClick={(e) => flippedCard(e, index)}>
                 <img className="icon" src={reverse_icon}/> answer 
                 </button>
 
