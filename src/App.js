@@ -64,7 +64,7 @@ const inpQuestion = (e)=> {
         value={inpCard.answer}
         onChange={(e) => inpAnswer(e)}
       placeholder="answer" />
-      <button onClick={addCard} disabled={inpCard.question && inpCard.answer}>add card</button>
+      <button onClick={addCard} disabled={!inpCard.question || !inpCard.answer}>add card</button>
       <button onClick={shuffle}>Shuffle</button>
       <div className='container'>
       {allCards.map((card, index) => (
