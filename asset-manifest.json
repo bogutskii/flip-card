@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/flip-card/static/css/main.7383b553.chunk.css",
-    "main.js": "/flip-card/static/js/main.0a7d3ab1.chunk.js",
-    "main.js.map": "/flip-card/static/js/main.0a7d3ab1.chunk.js.map",
+    "main.js": "/flip-card/static/js/main.32f09688.chunk.js",
+    "main.js.map": "/flip-card/static/js/main.32f09688.chunk.js.map",
     "runtime-main.js": "/flip-card/static/js/runtime-main.394a751f.js",
     "runtime-main.js.map": "/flip-card/static/js/runtime-main.394a751f.js.map",
     "static/js/2.bcaf2abd.chunk.js": "/flip-card/static/js/2.bcaf2abd.chunk.js",
     "static/js/2.bcaf2abd.chunk.js.map": "/flip-card/static/js/2.bcaf2abd.chunk.js.map",
     "index.html": "/flip-card/index.html",
-    "precache-manifest.755ceb4c87b0faa9b9de70a7f9751f77.js": "/flip-card/precache-manifest.755ceb4c87b0faa9b9de70a7f9751f77.js",
+    "precache-manifest.390c93d274385b06b4987dcd8ef7e251.js": "/flip-card/precache-manifest.390c93d274385b06b4987dcd8ef7e251.js",
     "service-worker.js": "/flip-card/service-worker.js",
     "static/css/main.7383b553.chunk.css.map": "/flip-card/static/css/main.7383b553.chunk.css.map",
     "static/js/2.bcaf2abd.chunk.js.LICENSE.txt": "/flip-card/static/js/2.bcaf2abd.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.394a751f.js",
     "static/js/2.bcaf2abd.chunk.js",
     "static/css/main.7383b553.chunk.css",
-    "static/js/main.0a7d3ab1.chunk.js"
+    "static/js/main.32f09688.chunk.js"
   ]
 }

@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c6a61502264c675cbf163bf349ebb17b",
+    "revision": "b0f5a0d7b237d9b2a75487bd65d5d340",
     "url": "/flip-card/index.html"
   },
   {
-    "revision": "6e003b38d5c8f567c2cc",
+    "revision": "9c4e85c05b7c5ca663cf",
     "url": "/flip-card/static/css/main.7383b553.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/flip-card/static/js/2.bcaf2abd.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6e003b38d5c8f567c2cc",
-    "url": "/flip-card/static/js/main.0a7d3ab1.chunk.js"
+    "revision": "9c4e85c05b7c5ca663cf",
+    "url": "/flip-card/static/js/main.32f09688.chunk.js"
   },
   {
     "revision": "63de4ef57cd6993c2b40",
